@@ -7,7 +7,7 @@
         "dateOfBirthday": "1989-03-30",
         "phone": "0689898899",
         "email": "Sincere@april.biz",
-        "create/update": "05.01.2021 23:30"
+        "createUpdate": "05.01.2021 23:30"
     },
     {
         "id" : "2",
@@ -16,7 +16,7 @@
         "dateOfBirthday": "1986-12-21",
         "phone": "0689898031",
         "email": "Nathan@yesenia.net",
-        "create/update": "05.01.2021 23:30"
+        "createUpdate": "05.01.2021 23:30"
     },
     {
         "id" : "3",
@@ -25,7 +25,7 @@
         "dateOfBirthday": "1995-03-21",
         "phone": "0931437899",
         "email": "Shanna@melissa.tv",
-        "create/update": "05.01.2021 23:30"
+        "createUpdate": "05.01.2021 23:30"
     },
     {
         "id" : "4",
@@ -34,7 +34,7 @@
         "dateOfBirthday": "1989-03-21",
         "phone": "0689898899",
         "email": "test@mail.com",
-        "create/update": "05.01.2021 23:30"
+        "createUpdate": "05.01.2021 23:30"
     },
     {
         "id" : "5",
@@ -43,7 +43,7 @@
         "dateOfBirthday": "1989-03-21",
         "phone": "0689898899",
         "email": "test@mail.com",
-        "create/update": "05.01.2021 23:30"
+        "createUpdate": "05.01.2021 23:30"
     },
     {
         "id" : "6",
@@ -52,7 +52,7 @@
         "dateOfBirthday": "1989-03-21",
         "phone": "0689898899",
         "email": "test@mail.com",
-        "create/update": "05.01.2021 23:30"
+        "createUpdate": "05.01.2021 23:30"
     },
     {
         "id" : "7",
@@ -61,7 +61,7 @@
         "dateOfBirthday": "1989-03-21",
         "phone": "0689898899",
         "email": "test@mail.com",
-        "create/update": "05.01.2021 23:30"
+        "createUpdate": "05.01.2021 23:30"
     },
     {
         "id" : "8",
@@ -70,7 +70,7 @@
         "dateOfBirthday": "1989-03-21",
         "phone": "0689898899",
         "email": "test@mail.com",
-        "create/update": "05.01.2021 23:30"
+        "createUpdate": "05.01.2021 23:30"
     },
     {
         "id" : "9",
@@ -79,7 +79,7 @@
         "dateOfBirthday": "1989-03-21",
         "phone": "0689898899",
         "email": "test@mail.com",
-        "create/update": "05.01.2021 23:30"
+        "createUpdate": "05.01.2021 23:30"
     },
     {
         "id" : "10",
@@ -88,7 +88,7 @@
         "dateOfBirthday": "1989-03-21",
         "phone": "0689898899",
         "email": "test@mail.com",
-        "create/update": "05.01.2021 23:30"
+        "createUpdate": "05.01.2021 23:30"
     },
     {
         "id" : "11",
@@ -97,7 +97,7 @@
         "dateOfBirthday": "1989-03-21",
         "phone": "0689898899",
         "email": "test@mail.com",
-        "create/update": "05.01.2021 23:30"
+        "createUpdate": "05.01.2021 23:30"
     },
     {
         "id" : "12",
@@ -106,7 +106,7 @@
         "dateOfBirthday": "1989-03-21",
         "phone": "0689898899",
         "email": "test@mail.com",
-        "create/update": "05.01.2021 23:30"
+        "createUpdate": "05.01.2021 23:30"
     },
     {
         "id" : "13",
@@ -115,70 +115,70 @@
         "dateOfBirthday": "1989-03-21",
         "phone": "0689898899",
         "email": "test@mail.com",
-        "create/update": "05.01.2021 23:30"
+        "createUpdate": "05.01.2021 23:30"
     },
     {
         "id" : "14",
-        "name" : "Luna",
-        "surname": "Blessar",
-        "dateOfBirthday": "1989-03-21",
-        "phone": "0689898899",
-        "email": "test@mail.com",
-        "create/update": "05.01.2021 23:30"
+         "name" : "Test",
+        "surname": "Tesotv",
+        "dateOfBirthday": "2000-01-11",
+        "phone": "063123456789",
+        "email": "test1@mail.com",
+        "createUpdate": "08.02.2022 23:30"
     },
     {
         "id" : "15",
-        "name" : "Вася",
-        "surname": "Pupkin",
-        "dateOfBirthday": "1989-03-21",
-        "phone": "0689898899",
-        "email": "test@mail.com",
-        "create/update": "05.01.2021 23:30"
+         "name" : "Test",
+        "surname": "Tesotv",
+        "dateOfBirthday": "2000-01-11",
+        "phone": "063123456789",
+        "email": "test1@mail.com",
+        "createUpdate": "08.02.2022 23:30"
     },
     {
         "id" : "16",
-        "name" : "Вася",
-        "surname": "Pupkin",
-        "dateOfBirthday": "1989-03-21",
-        "phone": "0689898899",
-        "email": "test@mail.com",
-        "create/update": "05.01.2021 23:30"
+          "name" : "Test",
+        "surname": "Tesotv",
+        "dateOfBirthday": "2000-01-11",
+        "phone": "063123456789",
+        "email": "test1@mail.com",
+        "createUpdate": "08.02.2022 23:30"
     },
     {
         "id" : "17",
-        "name" : "Вася",
-        "surname": "Pupkin",
-        "dateOfBirthday": "1989-03-21",
-        "phone": "0689898899",
-        "email": "test@mail.com",
-        "createUpdate": "05.01.2021 23:30"
+        "name" : "Test",
+        "surname": "Tesotv",
+        "dateOfBirthday": "2000-01-11",
+        "phone": "063123456789",
+        "email": "test1@mail.com",
+        "createUpdate": "08.02.2022 23:30"
     },
     {
-        "id" : "18",
-        "name" : "Вася",
-        "surname": "Pupkin",
-        "dateOfBirthday": "1989-03-21",
-        "phone": "0689898899",
-        "email": "test@mail.com",
-        "createUpdate": "05.01.2021 23:30"
+           "id" : "18",
+        "name" : "Test",
+        "surname": "Tesotv",
+        "dateOfBirthday": "2000-01-11",
+        "phone": "063123456789",
+        "email": "test1@mail.com",
+        "createUpdate": "08.02.2022 23:30"
     },
     {
-        "id" : "19",
-        "name" : "Вася",
-        "surname": "Pupkin",
-        "dateOfBirthday": "1989-03-21",
-        "phone": "0689898899",
-        "email": "test@mail.com",
-        "createUpdate": "05.01.2021 23:30"
+           "id" : "19",
+        "name" : "Test",
+        "surname": "Tesotv",
+        "dateOfBirthday": "2000-01-11",
+        "phone": "063123456789",
+        "email": "test1@mail.com",
+        "createUpdate": "08.02.2022 23:30"
     },
     {
         "id" : "20",
-        "name" : "Вася",
-        "surname": "Pupkin",
-        "dateOfBirthday": "1989-03-21",
-        "phone": "0689898899",
-        "email": "test@mail.com",
-        "createUpdate": "05.01.2021 23:30"
+        "name" : "Test",
+        "surname": "Tesotv",
+        "dateOfBirthday": "2000-01-11",
+        "phone": "063123456789",
+        "email": "test1@mail.com",
+        "createUpdate": "08.02.2022 23:30"
     }
 ]
 }
